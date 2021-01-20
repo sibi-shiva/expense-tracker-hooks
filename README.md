@@ -11,4 +11,4 @@
 
 ##### Inspired by:
 
-[Build an Expense Tracker](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=1)
+Brad's Build an Expense Tracker vanilla JS challenge
